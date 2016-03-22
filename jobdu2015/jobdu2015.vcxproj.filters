@@ -309,5 +309,8 @@
     <ClCompile Include="1131(97).cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1042(98).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
