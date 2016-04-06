@@ -327,5 +327,23 @@
     <ClCompile Include="1168(104).cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1111%28105%29%28unsolved%29.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1049(106).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1473(北邮12).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1474(北邮12).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1467(北邮12).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1475%28北邮12%29.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
