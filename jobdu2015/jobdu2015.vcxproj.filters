@@ -345,5 +345,26 @@
     <ClCompile Include="1475%28北邮12%29.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1177(北邮11).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1384(offer3).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1178%28北邮12%29%28undo%29.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1510(offer4).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1511(offer5).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
