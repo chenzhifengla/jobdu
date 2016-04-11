@@ -372,5 +372,26 @@
     <ClCompile Include="1512(offer7).cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1386(offer8).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1387(offer9).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1388%28offer9%29%28变形%29.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1389(offer9)变形.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1390(offer9)(变形).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1513(offer10).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1514%28offer11%29%28last%29.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
