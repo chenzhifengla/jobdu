@@ -390,7 +390,16 @@
     <ClCompile Include="1513(offer10).cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="1514%28offer11%29%28last%29.cpp">
+    <ClCompile Include="1514%28offer11%29.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1515(offer12).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1516(offer14).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1517(offer15).cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
