@@ -414,5 +414,20 @@
     <ClCompile Include="1521(offer19).cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1391(offer20).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1522(offer21).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1366(offer22).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test4.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test5.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
