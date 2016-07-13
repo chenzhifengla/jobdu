@@ -360,9 +360,6 @@
     <ClCompile Include="1511(offer5).cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="test2.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="test3.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
