@@ -363,5 +363,68 @@
     <ClCompile Include="test3.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1385(offer6).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1512(offer7).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1386(offer8).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1387(offer9).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1388%28offer9%29%28变形%29.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1389(offer9)变形.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1390(offer9)(变形).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1513(offer10).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1514%28offer11%29.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1515(offer12).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1516(offer14).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1517(offer15).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1518(offer16).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1519(offer17).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1520(offer18).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1521(offer19).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1391(offer20).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1522(offer21).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1366(offer22).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test4.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test5.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
